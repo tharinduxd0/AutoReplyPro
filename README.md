@@ -222,6 +222,13 @@ For any questions, issues, or technical support:
 - Check if contacts are in the eligible list
 - Verify vacation message is configured
 
+## 💌 Get Early Access
+
+If you want to experience hassle-free, automated responses on your Android device:  
+
+**Contact the developer:**  
+- Email: **tharinduxd1@gmail.com**  
+
 ## 📸 App Screenshots
 
 | Main UI | Settings | Block List |
