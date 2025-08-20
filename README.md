@@ -202,7 +202,9 @@ src/main/java/com/tharinduxd/autoreplyapp/
 ### Need Help?
 For any questions, issues, or technical support:
 
-**Developer**: [tharinduxd](https://github.com/tharinduxd0)
+**Developer**: [tharinduxd](https://github.com/tharinduxd0)  
+**LinkedIn Post**: [AutoReply Pro on LinkedIn](https://www.linkedin.com/posts/tharinduxd_productivity-androidapp-autoreply-activity-7363831824105529346-A3Uq)
+
 
 ### Common Issues
 
