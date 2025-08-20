@@ -222,6 +222,10 @@ For any questions, issues, or technical support:
 - Check if contacts are in the eligible list
 - Verify vacation message is configured
 
+## 📸 Screenshot
+
+![AutoReply Pro Screenshot](https://i.postimg.cc/4NgqsxD9/Screenshot-2025-08-20-132655.png)
+
 ---
 
 <div align="center">
