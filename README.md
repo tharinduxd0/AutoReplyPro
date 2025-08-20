@@ -215,7 +215,6 @@ For any questions, issues, or technical support:
 
 #### Delayed Replies
 - Ensure the app is not battery optimized
-- Check network connectivity
 - Verify foreground service is running
 
 #### Vacation Mode Not Working
