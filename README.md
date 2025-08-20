@@ -224,8 +224,7 @@ For any questions, issues, or technical support:
 
 ## 💌 Get Early Access
 
-If you want to experience hassle-free, automated responses on your Android device:  
-
+If you want to experience automated responses on your Android device:  
 **Contact the developer:**  
 - Email: **tharinduxd1@gmail.com**  
 
