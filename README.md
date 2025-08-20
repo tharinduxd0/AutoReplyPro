@@ -222,9 +222,11 @@ For any questions, issues, or technical support:
 - Check if contacts are in the eligible list
 - Verify vacation message is configured
 
-## 📸 Screenshot
+## 📸 App Screenshots
 
-![AutoReply Pro Screenshot](https://i.postimg.cc/4NgqsxD9/Screenshot-2025-08-20-132655.png)
+| Main UI | Settings | Block List |
+|---------|----------|------------|
+| ![Main UI](https://i.postimg.cc/DyRW8RcL/MainUI.png) | ![Settings](https://i.postimg.cc/8P7JkTLT/Settings.png) | ![Block List](https://i.postimg.cc/VsG0cJr7/Block-List.png) |
 
 ---
 
